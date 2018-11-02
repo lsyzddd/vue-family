@@ -1,10 +1,9 @@
-vue-editor
-
 [github地址](https://github.com/davidroyer/vue2-editor)
 
 [官方文档](https://www.vue2editor.com/)
 
 npm安装：$ npm install --save vue2-editor
+
 最简单的使用方式：
 
     <template>
